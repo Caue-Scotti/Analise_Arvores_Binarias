@@ -1,0 +1,34 @@
+==================== ANALISE DOS DADOS ====================
+
+150g de Activia (74 calorias por 100g) = 111.00 calorias
+110g de Tangerine (53 calorias por 100g) = 58.30 calorias
+120g de Bagel (257 calorias por 100g) = 308.40 calorias
+200g de Coffee (1 calorias por 100g) = 2.00 calorias
+200g de Beef Fillet (189 calorias por 100g) = 378.00 calorias
+150g de Rigatoni (353 calorias por 100g) = 529.50 calorias
+100g de Banoffee Pie (395 calorias por 100g) = 395.00 calorias
+50g de Arugula (25 calorias por 100g) = 12.50 calorias
+5g de Caesar Dressing (429 calorias por 100g) = 21.45 calorias
+30g de Camembert (300 calorias por 100g) = 90.00 calorias
+50g de Chocolate (529 calorias por 100g) = 264.50 calorias
+200g de White Wine (82 calorias por 100g) = 164.00 calorias
+
+Total de 2334.65 calorias consumidas no dia
+
+========  ESTATÍSTICAS ABP ============
+
+Numero de nodos: 1000 
+
+Altura: 993 
+
+Rotações: 0
+Comparações: 7196
+
+=======  ESTATÍSTICAS AVL ============
+
+Numero de nodos: 1000 
+
+Altura: 10 
+
+Rotações: 986
+Comparações: 264
